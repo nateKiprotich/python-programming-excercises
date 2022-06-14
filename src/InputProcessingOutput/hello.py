@@ -10,7 +10,7 @@ def time_based_greeting():
     """
         Greetings based on time of the day
 
-        Output:
+        Returns:
             str - Time based greeting i.e. Good Morning
     """
 
